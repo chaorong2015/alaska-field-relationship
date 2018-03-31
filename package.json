@@ -8,9 +8,12 @@
   ],
   "alaska": "field",
   "main": "index.js",
-  "repository": "https://github.com/chaorong2015/alaska-field-relationship.git",
-  "author": "Liang <liang@maichong.it> (https://github.com/liangxingchen)",
-  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaorong2015/alaska-field-relationship.git"
+  },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "alaska-field-select": "^0.13.1"
   }
