@@ -1,6 +1,6 @@
 {
   "name": "alaska-field-relationship",
-  "version": "0.13.2",
+  "version": "0.0.13",
   "description": "Alaska relationship field",
   "keywords": [
     "alaska",
@@ -14,6 +14,10 @@
   },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaorong2015/alaska-field-relationship/issues"
+  },
+  "homepage": "https://github.com/chaorong2015/alaska-field-relationship#readme",
   "dependencies": {
     "alaska-field-select": "^0.13.1"
   }
