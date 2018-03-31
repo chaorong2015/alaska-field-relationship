@@ -1,51 +1,17 @@
 {
-  "_from": "alaska-field-relationship@^0.13.0",
-  "_id": "alaska-field-relationship@0.13.0",
-  "_inBundle": false,
-  "_integrity": "sha1-kSALEpmdd7TCPu8l3ohhBJ/m1ZM=",
-  "_location": "/alaska-field-relationship",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "range",
-    "registry": true,
-    "raw": "alaska-field-relationship@^0.13.0",
-    "name": "alaska-field-relationship",
-    "escapedName": "alaska-field-relationship",
-    "rawSpec": "^0.13.0",
-    "saveSpec": null,
-    "fetchSpec": "^0.13.0"
-  },
-  "_requiredBy": [
-    "/",
-    "/alaska-captcha",
-    "/alaska-user"
-  ],
-  "_resolved": "http://registry.npm.taobao.org/alaska-field-relationship/download/alaska-field-relationship-0.13.0.tgz",
-  "_shasum": "91200b12999d77b4c23eef25de8861049fe6d593",
-  "_spec": "alaska-field-relationship@^0.13.0",
-  "_where": "/Users/chaorong/product/juwotuan/jwt",
-  "alaska": "field",
-  "author": {
-    "name": "Liang",
-    "email": "liang@maichong.it",
-    "url": "https://github.com/liangxingchen"
-  },
-  "bundleDependencies": false,
-  "dependencies": {
-    "alaska-field-select": "^0.13.0"
-  },
-  "deprecated": false,
+  "name": "alaska-field-relationship",
+  "version": "0.13.2",
   "description": "Alaska relationship field",
   "keywords": [
     "alaska",
     "alaska-field"
   ],
-  "license": "MIT",
+  "alaska": "field",
   "main": "index.js",
-  "name": "alaska-field-relationship",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/maichong/alaska/tree/master/src/alaska-field-relationship"
-  },
-  "version": "0.13.0"
+  "repository": "https://github.com/chaorong2015/alaska-field-relationship.git",
+  "author": "Liang <liang@maichong.it> (https://github.com/liangxingchen)",
+  "license": "MIT",
+  "dependencies": {
+    "alaska-field-select": "^0.13.1"
+  }
 }
